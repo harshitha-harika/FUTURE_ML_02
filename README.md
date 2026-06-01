@@ -1,13 +1,16 @@
-Support Ticket Classification using Machine Learning
+# Support Ticket Classification using Machine Learning
 
-This project classifies customer support tickets into different categories using Natural Language Processing (NLP) and Machine Learning techniques.
+This project classifies customer support tickets into different categories using Natural Language Processing (NLP) and Machine Learning.
 
-Features
-Text preprocessing
-Ticket classification
-Automatic category prediction
-NLP-based analysis
-Technologies Used
-Python
-Pandas
-Scikit-learn
+# Features
+
+- Text preprocessing
+- Ticket classification
+- Automatic category prediction
+- NLP-based text analysis
+
+# Technologies Used
+
+- Python
+- Pandas
+- Scikit-learn
